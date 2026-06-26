@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data / models / outputs
+data/
+models/
+outputs/
+*.mp4
+*.wav
+*.avi
+*.mov
+
+# Uploads and reports (generated at runtime)
+uploads/
+reports/
