@@ -16,6 +16,10 @@ The platform runs three analysis stages on every uploaded video:
 
 Results are combined into a JSON report with a trust score (0-100), manipulation probability, frame-by-frame risk timeline, and plain-language editorial recommendations.
 
+## Architecture
+
+![VeriStream AI Architecture](docs/architecture.png)
+
 ## Setup
 
 ```bash
